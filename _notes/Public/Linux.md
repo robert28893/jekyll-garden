@@ -6,6 +6,9 @@ permalink: /linux
 format: list
 ---
 
+* TOC
+{:toc}
+
 ## Content
 [Welcome to Linux](#Welcome to Linux)
 [[#Linux virtualization]]
