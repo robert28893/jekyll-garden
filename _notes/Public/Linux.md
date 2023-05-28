@@ -9,6 +9,7 @@ format: list
 * TOC
 {:toc}
 
+{:#content}
 ## Content
 [Welcome to Linux](#Welcome to Linux)
 [[#Linux virtualization]]
