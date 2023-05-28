@@ -7,7 +7,7 @@ format: list
 ---
 
 ## Content
-[](#Welcome to Linux)
+[Welcome to Linux](#Welcome to Linux)
 [[#Linux virtualization]]
 [[#Remote connectivity]]
 [[#Archive management]]
