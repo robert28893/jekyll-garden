@@ -1,3 +1,11 @@
+---
+title: Linux
+feed: show
+date: 28-05-2023
+permalink: /linux
+format: list
+---
+
 ## Content
 [[#Welcome to Linux]]
 [[#Linux virtualization]]
